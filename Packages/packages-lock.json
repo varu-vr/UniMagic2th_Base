@@ -204,6 +204,13 @@
         "com.unity.inputsystem": "1.2.0"
       }
     },
+    "jp.lilxyzw.liltoon": {
+      "version": "https://github.com/lilxyzw/lilToon.git?path=Assets/lilToon#master",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "d9e1e06d2bc25961f8849ba2dd926ffebcef6bf7"
+    },
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,
