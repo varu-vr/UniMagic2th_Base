@@ -8,9 +8,6 @@
     },
     "com.vrchat.core.vpm-resolver": {
       "version": "0.1.27"
-    },
-    "jp.lilxyzw.liltoon": {
-      "version": "1.7.2"
     }
   },
   "locked": {
@@ -26,10 +23,6 @@
     },
     "com.vrchat.core.vpm-resolver": {
       "version": "0.1.28",
-      "dependencies": {}
-    },
-    "jp.lilxyzw.liltoon": {
-      "version": "1.7.2",
       "dependencies": {}
     }
   }
