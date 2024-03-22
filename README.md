@@ -10,7 +10,7 @@
 
 ## バージョン情報、依存パッケージ
 - Unity2022.3.6f1
-- VCC v2.2.4
+- VCC v2.2.4 or later
 - VRChat SDK - Worlds v3.5.1
 - VRChat Package Resolver Tool v0.1.28
 - VRChat SDK - Base v3.5.1
